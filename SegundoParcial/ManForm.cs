@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SegundoParcial
 {
-    public partial class Form1 : Form
+    public partial class ManForm : Form
     {
-        public Form1()
+        public ManForm()
         {
             InitializeComponent();
         }
